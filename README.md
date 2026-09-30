@@ -2,7 +2,7 @@
 
 Hi, I'm Arun.
 
-I'm a first-year IT Engineering student from India.
+I'm a first-year Computer Engineering student from India.
 
 This repository documents my C++ learning journey, where I practice concepts, solve problems, and build projects.
 
